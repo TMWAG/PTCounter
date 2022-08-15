@@ -8,6 +8,6 @@
 	"jsxSingleQuote": true,
 	"trailingComma": "all",
 	"bracketSpacing": true,
-	"arrowParens": "always",
+	"arrowPaurens": "always",
 	"endOfLine": "auto"
 }
