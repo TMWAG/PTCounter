@@ -6,6 +6,7 @@
     "stylelint.vscode-stylelint",
     "streetsidesoftware.code-spell-checker",
     "streetsidesoftware.code-spell-checker-russian",
-    "dbaeumer.vscode-eslint"
+    "dbaeumer.vscode-eslint",
+    "rvest.vs-code-prettier-eslint"
   ]
 }
